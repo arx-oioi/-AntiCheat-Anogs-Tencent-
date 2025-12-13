@@ -2,6 +2,8 @@
 
 ## Author @Tg ARXMODER
 
+<img width="1919" height="887" alt="Image" src="https://github.com/user-attachments/assets/52f82f26-3e68-4d89-af5b-2f5c22589d83" />
+
 ---
 
 ## 1. GP (Game Protector) คืออะไร “จริง ๆ”
