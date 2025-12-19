@@ -7,6 +7,9 @@
 ![Image](https://github.com/user-attachments/assets/1e453745-6442-4db2-b3c5-8d2a3a09badd)
 
 ![Image](https://github.com/user-attachments/assets/a267c81a-777b-48c4-b775-76c59983576c)
+
+![Image](https://github.com/user-attachments/assets/b4ecf149-4c15-4e92-805d-2b347533b635)
+
 ---
 
 ## 1. GP (Game Protector) คืออะไร “จริง ๆ”
