@@ -10,6 +10,40 @@
 
 ![Image](https://github.com/user-attachments/assets/b4ecf149-4c15-4e92-805d-2b347533b635)
 
+
+
+`libanogs.so` คำสั่งเหล่านี้มักอยู่ใน:
+
+### 🔍 1. ระบบตรวจจับ (Detection Core)
+
+* scan /proc/self/maps
+* scan memory region
+* ตรวจ hook (plt / inline)
+* ตรวจ GG / frida / ptrace
+* ตรวจ syscall abnormal
+
+### 🧬 2. ระบบป้องกันตัวเอง (Self‑Defense)
+
+* anti-debug
+* anti-dump
+* anti-inject
+* anti-fork
+* anti-trace
+
+### 🔄 3. ระบบ scheduler ภายใน
+
+* loop ตรวจซ้ำเป็นช่วง
+* trigger ตาม event
+* background thread
+
+### 🧨 4. ระบบตอบโต้ (Reaction)
+
+* kill process
+* fake crash
+* corrupt memory
+* report server
+* delay ban
+
 ---
 
 ## 1. GP (Game Protector) คืออะไร “จริง ๆ”
