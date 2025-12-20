@@ -11,6 +11,8 @@
 ![Image](https://github.com/user-attachments/assets/b4ecf149-4c15-4e92-805d-2b347533b635)
 
 
+![Image](https://github.com/user-attachments/assets/aede6d6a-c0c3-4764-bf53-ca1192dd2453)
+
 
 `libanogs.so` คำสั่งเหล่านี้มักอยู่ใน:
 
