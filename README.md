@@ -4,12 +4,7 @@
 
 <img width="1919" height="887" alt="Image" src="https://github.com/user-attachments/assets/52f82f26-3e68-4d89-af5b-2f5c22589d83" />
 
-![Image](https://github.com/user-attachments/assets/1e453745-6442-4db2-b3c5-8d2a3a09badd)
-
 ![Image](https://github.com/user-attachments/assets/a267c81a-777b-48c4-b775-76c59983576c)
-
-![Image](https://github.com/user-attachments/assets/b4ecf149-4c15-4e92-805d-2b347533b635)
-
 
 ![Image](https://github.com/user-attachments/assets/aede6d6a-c0c3-4764-bf53-ca1192dd2453)
 
@@ -47,6 +42,12 @@
 * delay ban
 
 ---
+
+![Image](https://github.com/user-attachments/assets/b4ecf149-4c15-4e92-805d-2b347533b635)
+
+![Image](https://github.com/user-attachments/assets/1e453745-6442-4db2-b3c5-8d2a3a09badd)
+
+
 
 ## 1. GP (Game Protector) คืออะไร “จริง ๆ”
 
