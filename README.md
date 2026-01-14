@@ -75,6 +75,19 @@
 [OK] ────────────────┐
   │                  │
   └──> [VIOLATION] → [TERMINATE]
+
+
+Arena Breakout (App Process)
+ └─ Java / Activity / Service
+ └─ GP7Service  ← ส่ง signal
+
+Arena Breakout (GP7Worker)
+ └─ Native core (anogs / anort)
+ └─ State machine
+ └─ Integrity / Anti-cheat
+ └─ Runtime monitor
+
+
 ```
 
 ---
