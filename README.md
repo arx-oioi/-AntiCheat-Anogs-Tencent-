@@ -41,6 +41,42 @@
 * report server
 * delay ban
 
+
+
+
+┌─────────────┐
+│ Application │
+│ (Java)      │
+└─────┬───────┘
+      │ JNI
+      ▼
+┌─────────────┐
+│ Native Core │  ← anogs / anort
+│ (Anti)      │
+└─────┬───────┘
+      │
+      ▼
+┌─────────────┐
+│ State Engine│
+│ + Checks    │
+└─────────────┘
+
+
+[BOOT]
+  ↓
+[INIT]
+  ↓
+[ENV_CHECK]
+  ↓
+[VERIFY_APP]
+  ↓
+[RUNTIME_MONITOR]
+  ↓
+[OK] ────────────────┐
+  │                  │
+  └──> [VIOLATION] → [TERMINATE]
+
+
 ---
 
 ![Image](https://github.com/user-attachments/assets/b4ecf149-4c15-4e92-805d-2b347533b635)
