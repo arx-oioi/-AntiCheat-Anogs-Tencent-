@@ -42,7 +42,7 @@
 * delay ban
 
 
-
+```
 
 ┌─────────────┐
 │ Application │
@@ -75,7 +75,7 @@
 [OK] ────────────────┐
   │                  │
   └──> [VIOLATION] → [TERMINATE]
-
+```
 
 ---
 
